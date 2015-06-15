@@ -1,0 +1,26 @@
+{
+  "name": "Geiser",
+  "version": "0.1.0",
+  "description": "Um cadastrador de jogos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mateusaires/cefet-web-geiser.git"
+  },
+  "keywords": [
+    "steam",
+    "jogos"
+  ],
+  "author": "Mateus",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/mateusaires/cefet-web-geiser/issues"
+  },
+  "dependencies": {
+    "express": "latest",
+    "hbs": "^3.1.0"
+  }
+}
